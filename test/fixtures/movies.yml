@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  opening_crawl: MyText
+  release_date: 2022-10-11
+
+two:
+  title: MyString
+  opening_crawl: MyText
+  release_date: 2022-10-11
